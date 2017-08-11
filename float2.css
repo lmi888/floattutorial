@@ -1,0 +1,12 @@
+/* http://css.maxdesign.com.au/floatutorial/ */
+
+.floatright {
+  float: right;
+
+}
+
+.cap {
+  font-weight: bold;
+  color: blue;
+
+}
